@@ -11,14 +11,10 @@
   
 
 - ⚡ Fun fact: I like cranberry's  
-  
-
-<br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -34,7 +30,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -42,7 +37,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -104,22 +98,9 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AndrextA's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AndrextA&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br/>  
-
-
-## Some of me 
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=andrextgaymer&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>
