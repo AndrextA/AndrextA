@@ -35,7 +35,7 @@
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -63,8 +63,7 @@
   <a href="https://github.com/AndrextA/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AndrextA's streak" src="https://streak-stats.demolab.com/?user=AndrextA&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
   
@@ -73,7 +72,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AndrextA's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AndrextA&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AndrextA's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AndrextA&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <br/>  
 
